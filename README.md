@@ -1,4 +1,3 @@
-[readme-studio-generated.md](https://github.com/user-attachments/files/26863544/readme-studio-generated.md)
 # Hi there! 👾 I'm Aritra Bhui
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Aspiring+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
