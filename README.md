@@ -8,7 +8,7 @@
 
 I'm a passionate and curious developer always eager to dive into new challenges and explore the ever-evolving world of technology. My journey in coding is driven by a desire to build innovative solutions and contribute to impactful projects. I believe in continuous learning, clean code, and the power of collaboration to create something truly great.
 
-I'm particularly interested in **[Your Specific Interest Area, e.g., web development, data science, cloud architecture]** and love tackling complex problems that require creative thinking.
+I'm particularly interested in  web development, data science, cloud architecture and love tackling complex problems that require creative thinking.
 
 ## 🎯 Current Focus
 
