@@ -119,7 +119,8 @@ I'm always open to discussing new ideas, collaborating on interesting projects, 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aritra-bhui-613062386?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <!-- TODO: Add your LinkedIn profile URL -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+([https://www.linkedin.com/in/aritra-bhui-613062386/?skipRedirect=true])<!-- TODO: Add your LinkedIn profile URL -->
 
 
 
