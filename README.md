@@ -28,11 +28,11 @@ role: First-Year B.Tech CSE Student
 university: Asansol Engineering College (MAKAUT), West Bengal
 team: Kryonex — Hackathon Builders
 focus: [Full-Stack Web Dev, AI-Integrated Apps, DSA]
-currently_building: "Dishari (দিশারী) — AI career & study companion"
+currently_building:
 philosophy: "Ship fast, learn faster."
 ```
 
-- 🔭 Currently building **Dishari** — an AI-powered career & study companion with dual student/parent portals, AI roadmaps, and RAG + Socratic chatbots
+- 🔭 Currently building 
 - 🌱 Learning **DSA** and **backend architecture** (Node.js, system design)
 - 🤝 Open to collaborating on **hackathon projects** and **open-source web dev**
 - ⚡ Fun fact: I stay consistent with learning even on the days I don't feel like it
