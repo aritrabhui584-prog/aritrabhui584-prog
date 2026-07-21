@@ -179,8 +179,3 @@ If you found my projects helpful or learned something from my code, consider sup
   <sub>⭐ Feel free to star any repositories you find interesting!</sub>
 </div>
 
-## 🐍 Contribution Graph Animation
-
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/aritrabhui584-prog/aritrabhui584-prog/output/github-contribution-grid-snake.gif" alt="Contribution Graph Animation"/>
-</div>
