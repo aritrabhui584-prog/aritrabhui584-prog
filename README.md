@@ -2,35 +2,35 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Aspiring+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Aspiring+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things)](https://github.com/aritrabhui584-prog)
 
 ---
 
 ## 👋 About Me
 
-I'm a passionate and curious developer always eager to dive into new challenges and explore the ever-evolving world of technology. My journey in coding is driven by a desire to build innovative solutions and contribute to impactful projects. I believe in continuous learning, clean code, and the power of collaboration to create something truly great.
+I'm a passionate and curious developer always eager to dive into new challenges and explore the ever-evolving world of technology. My journey in coding is driven by a desire to build innovative solutions that make a difference.
 
 I'm particularly interested in  web development, data science, cloud architecture and love tackling complex problems that require creative thinking.
 
 ## 🎯 Current Focus
 
-🔭 I’m currently working on  
+🔭 I'm currently working on  
 Full-stack web projects using JavaScript (Frontend + Backend)
 
-👯 I’m looking to collaborate on  
+👯 I'm looking to collaborate on  
 Beginner-friendly open source & web dev projects
 
-🤝 I’m looking for help with  
+🤝 I'm looking for help with  
 Backend architecture, APIs, and system design basics
 
-🌱 I’m currently learning  
+🌱 I'm currently learning  
 DSA + Backend Development (Node.js, databases)
 
 💬 Ask me about  
 JavaScript, basic DSA, and getting started with web dev
 
 ⚡ Fun fact  
-I’m consistent with learning even when I don’t feel like it
+I'm consistent with learning even when I don't feel like it
 
 ## 🛠️ Technology Arsenal
 
@@ -115,7 +115,7 @@ My toolkit is constantly expanding, but here are some of the technologies I'm pr
 
 ### 🌟 [My Awesome Project](https://github.com/aritrabhui584-prog/REPO_NAME) <!-- TODO: Replace with your actual project link and name -->
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=aritrabhui584-prog&repo=REPO_NAME&theme=tokyonight)](https://github.com/aritrabhui584-prog/REPO_NAME) <!-- TODO: Replace REPO_NAME with one of your repository names -->
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=aritrabhui584-prog&repo=REPO_NAME&theme=tokyonight)](https://github.com/aritrabhui584-prog/REPO_NAME) <!-- TODO: Replace REPO_NAME with your actual repo name -->
 
 **Tech Stack:** JavaScript • Node.js • Express • MongoDB • React
 **Status:** 🚧 In Development | ⭐ X+ Stars | 🍴 Y+ Forks <!-- TODO: Update status and metrics -->
@@ -132,8 +132,7 @@ I'm always open to discussing new ideas, collaborating on interesting projects, 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aritra-bhui-613062386/)<!-- TODO: Add your LinkedIn profile URL -->
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aritra-bhui-613062386/)<!-- TODO: Add your LinkedIn profile link -->
 
 
 
@@ -180,5 +179,4 @@ If you found my projects helpful or learned something from my code, consider sup
   <sub>⭐ Feel free to star any repositories you find interesting!</sub>
 </div>
 
-![snake gif](https://github.com/aritrabhui584-prog/aritrabhui584-prog/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://raw.githubusercontent.com/aritrabhui584-prog/aritrabhui584-prog/output/github-contribution-grid-snake.svg)
