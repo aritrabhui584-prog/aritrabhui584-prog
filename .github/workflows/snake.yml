@@ -15,6 +15,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       # Generates the snake  
       - uses: Platane/snk@master
@@ -24,24 +26,25 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Fetch and rebase to handle remote changes
-      - name: Fetch and rebase output branch
+      # Configure git
+      - name: Configure git
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+
+      # Checkout output branch, merge changes, and push
+      - name: Deploy to output branch
         run: |
           git fetch origin output || true
-          git rebase origin/output || true
-
-      # Push to output branch
-      - name: Push changes to output branch
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output
-          force: false
-
-      # Deploy to GitHub Pages
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
+          git checkout output || git checkout -b output
+          cp -r dist/* .
+          git add github-contribution-grid-snake.gif github-contribution-grid-snake.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "Automated snake animation update"
+            git pull --rebase origin output || true
+            git push origin output
+          else
+            echo "No changes to commit"
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
