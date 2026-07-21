@@ -1,42 +1,51 @@
-# Hi there! 👾 I'm Aritra Bhui
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003fef,100:38bdae&height=220&section=header&text=Aritra%20Bhui&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20CSE%20Student&descAlignY=55&descSize=18" width="100%"/>
 
+<a href="https://github.com/aritrabhui584-prog">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=Building+with+the+MERN+Stack;Shipping+AI-Powered+Web+Apps;Hackathon+Builder+%40+Team+Kryonex;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+</a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Aspiring+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things)](https://github.com/aritrabhui584-prog)
+<br/>
 
----
+<img src="https://img.shields.io/badge/dynamic/json?color=success&label=Profile%20Views&query=count&url=https://api.countapi.xyz/hit/aritrabhui584-prog/readme&style=for-the-badge" alt="views" hidden/>
 
-## 👋 About Me
+[![GitHub followers](https://img.shields.io/github/followers/aritrabhui584-prog?style=for-the-badge&color=38bdae&labelColor=1a1b27)](https://github.com/aritrabhui584-prog)
+[![Profile Views](https://komarev.com/ghpvc/?username=aritrabhui584-prog&color=38bdae&style=for-the-badge&label=PROFILE+VIEWS&labelColor=1a1b27)](https://github.com/aritrabhui584-prog)
+[![GitHub Streak](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=1a1b27&color=38bdae&label=Status&query=%24.status&url=https%3A%2F%2Fapi.github.com%2Fusers%2Faritrabhui584-prog)](https://github.com/aritrabhui584-prog)
 
-I'm a passionate and curious developer always eager to dive into new challenges and explore the ever-evolving world of technology. My journey in coding is driven by a desire to build innovative solutions that make a difference.
+</div>
 
-I'm particularly interested in  web development, data science, cloud architecture and love tackling complex problems that require creative thinking.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🎯 Current Focus
+<!--============================ ABOUT ============================-->
 
-🔭 I'm currently working on  
-Full-stack web projects using JavaScript (Frontend + Backend)
+### 🧠 About Me
 
-👯 I'm looking to collaborate on  
-Beginner-friendly open source & web dev projects
+```yaml
+name: Aritra Bhui
+role: First-Year B.Tech CSE Student
+university: Asansol Engineering College (MAKAUT), West Bengal
+team: Kryonex — Hackathon Builders
+focus: [Full-Stack Web Dev, AI-Integrated Apps, DSA]
+currently_building: "Dishari (দিশারী) — AI career & study companion"
+philosophy: "Ship fast, learn faster."
+```
 
-🤝 I'm looking for help with  
-Backend architecture, APIs, and system design basics
+- 🔭 Currently building **Dishari** — an AI-powered career & study companion with dual student/parent portals, AI roadmaps, and RAG + Socratic chatbots
+- 🌱 Learning **DSA** and **backend architecture** (Node.js, system design)
+- 🤝 Open to collaborating on **hackathon projects** and **open-source web dev**
+- ⚡ Fun fact: I stay consistent with learning even on the days I don't feel like it
 
-🌱 I'm currently learning  
-DSA + Backend Development (Node.js, databases)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-💬 Ask me about  
-JavaScript, basic DSA, and getting started with web dev
+<!--============================ TECH STACK ============================-->
 
-⚡ Fun fact  
-I'm consistent with learning even when I don't feel like it
+### 🛠️ Tech Arsenal
 
-## 🛠️ Technology Arsenal
+<div align="center">
 
-My toolkit is constantly expanding, but here are some of the technologies I'm proficient with or actively learning:
-
-### 💻 Programming Languages
+**Languages**
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -47,7 +56,7 @@ My toolkit is constantly expanding, but here are some of the technologies I'm pr
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🚀 Frameworks & Libraries
+**Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -57,125 +66,83 @@ My toolkit is constantly expanding, but here are some of the technologies I'm pr
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
-### 🗄️ Databases
+**Databases**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ☁️ Cloud & DevOps
+**Cloud, DevOps & Tools**
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### 🎨 Design & Tools
-
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📊 GitHub Analytics Dashboard
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aritrabhui584-prog&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritrabhui584-prog&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-### 🏆 GitHub Achievements
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!--============================ STATS ============================-->
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=aritrabhui584-prog&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritrabhui584-prog&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aritrabhui584-prog&theme=tokyonight&hide_border=true&background=1a1b27"/>
+</div>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aritrabhui584-prog&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aritrabhui584-prog&theme=tokyonight&no-frame=true&margin-w=4&row=1&column=6"/>
 </p>
 
-### 📈 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aritrabhui584-prog&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aritrabhui584-prog&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true"/>
+</div>
 
-### 🔥 Streak Statistics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aritrabhui584-prog&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-### 📅 Contribution Calendar
-<img src="https://ghchart.rshah.org/409ba5/aritrabhui584-prog" alt="Contribution Calendar" width="100%"/>
+<!--============================ SNAKE GAME ============================-->
 
-### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-<!-- TODO: Set up GitHub Actions to auto-update this section. Check out https://github.com/marketplace/actions/github-activity-readme for guidance. -->
-<!--END_SECTION:activity-->
-
-## 🏗️ Featured Projects
+### 🐍 Contribution Snake
 
 <div align="center">
 
-### 🌟 [My Awesome Project](https://github.com/aritrabhui584-prog/REPO_NAME) <!-- TODO: Replace with your actual project link and name -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aritrabhui584-prog/aritrabhui584-prog/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aritrabhui584-prog/aritrabhui584-prog/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/aritrabhui584-prog/aritrabhui584-prog/output/github-contribution-grid-snake.svg">
+</picture>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=aritrabhui584-prog&repo=REPO_NAME&theme=tokyonight)](https://github.com/aritrabhui584-prog/REPO_NAME) <!-- TODO: Replace REPO_NAME with your actual repo name -->
-
-**Tech Stack:** JavaScript • Node.js • Express • MongoDB • React
-**Status:** 🚧 In Development | ⭐ X+ Stars | 🍴 Y+ Forks <!-- TODO: Update status and metrics -->
-*A brief description of this project, highlighting what it does, the problem it solves, or why it's a cool learning experience.*
-
----
-<!-- TODO: Add more projects as you build them! Use the same structure above. -->
+<sub>⚙️ Snake auto-eats my contribution graph daily via GitHub Actions — see setup below</sub>
 
 </div>
 
-## 🌐 Let's Connect & Collaborate
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-I'm always open to discussing new ideas, collaborating on interesting projects, or just chatting about tech!
+<!--============================ CONNECT ============================-->
+
+### 🌐 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aritra-bhui-613062386/)<!-- TODO: Add your LinkedIn profile link -->
-
-
-
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aritrabhui584@gmail.com) <!-- TODO: Add your email address -->
-
-
-
-### 📱 Social Presence
-
-[![GitHub followers](https://img.shields.io/github/followers/aritrabhui584-prog?style=social)](https://github.com/aritrabhui584-prog)
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aritra-bhui-613062386/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aritra_vibess)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aritrabhui584@gmail.com)
 
 </div>
 
----
-
-## ☕ Support My Work
-
-If you found my projects helpful or learned something from my code, consider supporting my work:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdae,100:003fef&height=120&section=footer" width="100%"/>
 
 <div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aritrabhui584-prog ) <!-- TODO: Replace YOUR_USERNAME with your Buy Me A Coffee username -->
-
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aritrabhui584-prog ) <!-- TODO: Replace YOUR_USERNAME with your Ko-fi username -->
-
-[![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/aritrabhui584-prog ) <!-- TODO: Replace YOUR_USERNAME with your GitHub username -->
-
+  <sub>⭐ "Code is poetry, and every commit tells a story."</sub>
 </div>
-
-<div align="center">
-  <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aritrabhui584-prog&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
-
-  ### 🚀 "Code is poetry, and every commit tells a story"
-
-  <sub>⭐ Feel free to star any repositories you find interesting!</sub>
-</div>
-
