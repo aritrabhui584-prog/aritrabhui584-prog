@@ -1,50 +1,31 @@
-name: Generate Snake
+name: Generate Snake Game
 
 on:
   schedule:
-    # every 6 hours
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # runs daily at midnight UTC
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-
+  generate:
     permissions:
       contents: write
-
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-
-      # Generates the snake  
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Generate snake game SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: aritrabhui584-prog
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Configure git
-      - name: Configure git
-        run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-
-      # Checkout output branch, merge changes, and push
-      - name: Deploy to output branch
-        run: |
-          git fetch origin output || true
-          git checkout output || git checkout -b output
-          cp -r dist/* .
-          git add github-contribution-grid-snake.gif github-contribution-grid-snake.svg
-          if ! git diff --cached --quiet; then
-            git commit -m "Automated snake animation update"
-            git pull --rebase origin output || true
-            git push origin output
-          else
-            echo "No changes to commit"
-          fi
+      - name: Push SVG to the "output" branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
