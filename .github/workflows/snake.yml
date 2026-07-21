@@ -24,6 +24,12 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
+      # Fetch and rebase to handle remote changes
+      - name: Fetch and rebase output branch
+        run: |
+          git fetch origin output || true
+          git rebase origin/output || true
+
       # Push to output branch
       - name: Push changes to output branch
         uses: ad-m/github-push-action@master
