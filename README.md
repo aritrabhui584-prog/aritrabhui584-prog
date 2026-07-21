@@ -180,7 +180,5 @@ If you found my projects helpful or learned something from my code, consider sup
   <sub>⭐ Feel free to star any repositories you find interesting!</sub>
 </div>
 
-## Description
-
-A detailed description of what this project does and who it's for. Explain the problem it solves and why it's useful.
+![snake gif](https://github.com/aritrabhui584-prog/aritrabhui584-prog/blob/output/github-contribution-grid-snake.svg)
 
