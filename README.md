@@ -16,7 +16,7 @@
 <tr>
 <td width="65%">
 
-I'm a first-year B.Tech CSE student who enjoys building modern, AI-integrated web applications from concept to deployment. I compete in  hackathons with **Team Kryonex**, working across the frontend, backend, and AI/ML layers to ship products that actually solve problems — and I'm constantly exploring new tools to push my skills further.
+I'm a first-year B.Tech CSE student who enjoys building modern, AI-integrated web applications from concept to deployment. I compete in national-level hackathons with **Team Kryonex**, working across the frontend, backend, and AI/ML layers to ship products that actually solve problems — and I'm constantly exploring new tools to push my skills further.
 
 </td>
 <td width="35%" align="center">
@@ -46,9 +46,7 @@ I'm a first-year B.Tech CSE student who enjoys building modern, AI-integrated we
 | Project | Description | Tech |
 |---|---|---|
 | 🎬 **Mouverse AI** | Flask movie recommender — TF-IDF, cosine similarity, mood-based ML picks & a CineBot chatbot | `Flask` `SQLite` `OMDb API` `Twilio` |
-
 | 📄 **Shortlyst** | AI-powered resume screening app built for a national hackathon | `React 18` `Vite` `Tailwind` `Gemini 2.5 Flash` |
-
 
 </div>
 
