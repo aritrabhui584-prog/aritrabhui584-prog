@@ -16,7 +16,7 @@
 <tr>
 <td width="65%">
 
-I'm a first-year B.Tech CSE student who enjoys building modern, AI-integrated web applications from concept to deployment. I compete in  hackathons with **Team Kryonex**, working across the frontend, backend, and AI/ML layers to ship products that actually solve problems — and I'm constantly exploring new tools to push my skills further.
+I'm a B.Tech CSE student who enjoys building modern, AI-integrated web applications from concept to deployment. I compete in  hackathons with **Team Kryonex**, working across the frontend, backend, and AI/ML layers to ship products that actually solve problems — and I'm constantly exploring new tools to push my skills further.
 
 </td>
 <td width="35%" align="center">
