@@ -46,7 +46,7 @@ I'm a B.Tech CSE student who enjoys building modern, AI-integrated web applicati
 | Project | Description | Tech |
 |---|---|---|
 | 🎬 **Mouverse AI** | Flask movie recommender — TF-IDF, cosine similarity, mood-based ML picks & a CineBot chatbot | `Flask` `SQLite` `OMDb API` `Twilio` |
-| 📄 **Shortlyst** | AI-powered resume screening app built for a national hackathon | `React 18` `Vite` `Tailwind` `Gemini 2.5 Flash` |
+| 📄 **Shortlyst** | AI-powered resume screening app built for a hackathon- " PROMPTWARS X HACKTRPICA" by Google| `React 18` `Vite` `Tailwind` `Gemini 2.5 Flash` |
 
 </div>
 
