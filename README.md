@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b56b1de.gif" width="60">
 
 <a href="https://github.com/aritrabhui584-prog">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38BDAE&width=435&lines=Hi%2C+I'm+Aritra+%F0%9F%91%8B;Full-Stack+Developer;Building+Scalable+AI-Powered+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDAE&width=435&lines=Hi%2C+I'm+Aritra+%F0%9F%91%8B;Full-Stack+Developer;Building+Scalable+AI-Powered+Apps" alt="Typing SVG" />
 </a>
 
 </div>
@@ -29,7 +29,7 @@ I'm a B.Tech CSE student who enjoys building modern, AI-integrated web applicati
 
 [![GitHub followers](https://img.shields.io/github/followers/aritrabhui584-prog?style=for-the-badge&color=38bdae&labelColor=1a1b27)](https://github.com/aritrabhui584-prog)
 [![Profile Views](https://komarev.com/ghpvc/?username=aritrabhui584-prog&color=38bdae&style=for-the-badge&label=PROFILE+VIEWS&labelColor=1a1b27)](https://github.com/aritrabhui584-prog)
-[![GitHub Streak](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=1a1b27&color=38bdae&label=Status&query=%24.status&url=https%3A%2F%2Fapi.github.com%2Fusers%2Faritrabhui584-prog)](https://github.com/aritrabhui584-prog)
+[![Public Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=1a1b27&color=38bdae&label=Public+Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Faritrabhui584-prog)](https://github.com/aritrabhui584-prog)
 
 </div>
 
@@ -89,7 +89,7 @@ I'm a B.Tech CSE student who enjoys building modern, AI-integrated web applicati
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=aritrabhui584-prog&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritrabhui584-prog&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aritrabhui584-prog&theme=tokyonight&hide_border=true&background=1a1b27"/>
+<img src="https://streak-stats.demolab.com/?user=aritrabhui584-prog&theme=tokyonight&hide_border=true&background=1a1b27"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=aritrabhui584-prog&theme=tokyonight&no-frame=true&margin-w=4&row=1&column=6"/>
 
