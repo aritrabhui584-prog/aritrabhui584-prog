@@ -89,7 +89,7 @@ I'm a B.Tech CSE student who enjoys building modern, AI-integrated web applicati
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=aritrabhui584-prog&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritrabhui584-prog&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27"/>
 
-<img src="https://streak-stats.demolab.com/?user=aritrabhui584-prog&theme=tokyonight&hide_border=true&background=1a1b27"/>
+<img src="./profile/streak.svg"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=aritrabhui584-prog&theme=tokyonight&no-frame=true&margin-w=4&row=1&column=6"/>
 
